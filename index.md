@@ -8,10 +8,14 @@ I am a PhD candidate at KNAW Meertens Instituut in Amsterdam and Utrecht Univers
 
 ## Current Projects
 
-Better-MODS: Better Informing Citizens About Current Debates: https://better-mods.uvt.nl/
+###Better-MODS: Better Informing Citizens About Current Debates: 
+
+[Project Website](https://better-mods.uvt.nl/)
 
 
-Wie is de trol?: https://www.wie-is-de-trol.nl/
+###Wie is de trol?: 
+
+[Project Website](https://www.wie-is-de-trol.nl/)
 
 
 
