@@ -16,7 +16,7 @@ The BETTER-MODS project is a collaboration between Tilburg University, the KNAW 
 
 #### [Wie is de trol?](https://www.wie-is-de-trol.nl/)
 
-'Wie is de trol?' is  game for school student and libraries to learn about online discussions, content moderation and the use of Artificial Intelligence (AI). It is an initiative by researchers from KNAW Meertens Instituut, Tilburg University, together with NEMO Kennislink.
+'Wie is de trol?' is  game for school student and libraries to learn about online discussions, content moderation and the use of Artificial Intelligence (AI). It is an initiative by researchers from KNAW Meertens Instituut, Tilburg University, together with NEMO Kennislink. Visit the [website](https://www.wie-is-de-trol.nl/) for a full project description.
 
 The game is being developed by Basten Stokhuyzen, Mathilde Jansen and Cedric Waterschoot.
 This project is financed by a Dutch Research Agenda 'Science Communication' grant (NWO).
