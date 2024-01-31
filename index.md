@@ -10,11 +10,11 @@ I am currently writing my dissertation on hybrid content moderation of discussio
 
 ## Current Projects
 
-##### [Better-MODS: Better Informing Citizens About Current Debates](https://better-mods.uvt.nl/)
+#### [Better-MODS: Better Informing Citizens About Current Debates](https://better-mods.uvt.nl/)
 
 The BETTER-MODS project is a collaboration between Tilburg University, the KNAW Meertens Institute and NU.nl. This project aims to make online discussions more accessible and create computational tools which contribute to the practice of online content moderation.
 
-##### [Wie is de trol?](https://www.wie-is-de-trol.nl/)
+#### [Wie is de trol?](https://www.wie-is-de-trol.nl/)
 
 A game for school student and libraries to learn about online discussions, content moderation and the use of Artificial Intelligence (AI). Together with Basten Stokhuyzen and Mathilde Jansen.
 This project is financed by NWO grant 'Science Communication'.
