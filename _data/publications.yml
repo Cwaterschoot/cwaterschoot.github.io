@@ -8,7 +8,6 @@ main:
 
   - title: "Hybrid moderation in the newsroom: Recommending featured posts to content moderators"
     authors: Cedric Waterschoot, Antal van den Bosch
-    conference: arXiv 2023
     pdf: https://arxiv.org/pdf/2307.07317.pdf
     image: ./assets/img/Train_data_splits_RF.png
     notes: Preprint
