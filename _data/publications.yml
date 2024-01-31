@@ -9,7 +9,7 @@ main:
   - title: "Hybrid moderation in the newsroom: Recommending featured posts to content moderators"
     authors: Cedric Waterschoot, Antal van den Bosch
     pdf: https://arxiv.org/pdf/2307.07317.pdf
-    image: ./assets/img/trainingsplits.png
+    image: ./assets/img/trainingsplits.pdf
     notes: Preprint
     
   - title: "Detecting Minority Arguments for Mutual Understanding: A Moderation Tool for the Online Climate Change Debate"
