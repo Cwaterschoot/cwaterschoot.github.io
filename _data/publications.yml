@@ -1,5 +1,12 @@
 main:
 
+  - title: "Agency and dynamics in large datasets: Dutch Islam discourse on social media"
+    authors: Cedric Waterschoot
+    conference: Religion in Motion – Between Borders and Belonging (NGG 2023) 
+    image: ./assets/img/networks-ngg.png
+    notes: Presentation
+
+    
   - title: "Detecting Minority Arguments for Mutual Understanding: A Moderation Tool for the Online Climate Change Debate"
     authors: Cedric Waterschoot, Antal van den Bosch, Ernst van den Hemel
     conference: 29th International Conference on Computational Linguistics (COLING 2022)
