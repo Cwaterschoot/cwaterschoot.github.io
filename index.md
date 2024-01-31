@@ -16,7 +16,7 @@ The BETTER-MODS project is a collaboration between Tilburg University, the KNAW 
 
 ##### [Wie is de trol?](https://www.wie-is-de-trol.nl/): 
 
-
+A game for school student and libraries to learn about online discussions, content moderation and the use of Artificial Intelligence (AI). Together with Basten Stokhuyzen and Mathilde Jansen.
 
 
 
