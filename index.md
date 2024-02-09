@@ -14,7 +14,7 @@ Alongside the work for my dissertation, I look at how you can (computationally) 
 
 #### [Better-MODS: Better Informing Citizens About Current Debates](https://better-mods.uvt.nl/)
 
-The BETTER-MODS project is a collaboration between Tilburg University, the KNAW Meertens Institute and NU.nl. This project aims to make online discussions more accessible and create computational tools which contribute to the practice of online content moderation.
+The BETTER-MODS project is a collaboration between Tilburg University, the KNAW Meertens Institute and NU.nl. This project aims to make online discussions more accessible and to understand how human moderators work alongside AI in the context of hybrid content moderation. Furthermore, we study if people engage in discussions on news articles and the motivation behind their participation. 
 
 #### [Wie is de trol?](https://www.wie-is-de-trol.nl/)
 
