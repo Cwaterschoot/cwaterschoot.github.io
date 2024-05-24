@@ -8,7 +8,7 @@ I am a PhD candidate at KNAW Meertens Instituut in Amsterdam and Utrecht Univers
 
 I am currently writing my dissertation on hybrid content moderation of discussions hosted by online news outlets (comment sections). I create computational tools to support the content moderator in their tasks. Specifically, I look at identifying 'good' or 'constructive' comments, which news outlets manually highlight to promote better discussions. You can read about my research [here](https://www.nemokennislink.nl/publicaties/ai-tilt-discussie-naar-hoger-niveau/) (Dutch). Furthermore, I study how content moderators are currently working alongside AI-based tools as well as the opportunities for future collaboration. My PhD project is part of the larger Better-MODS project.
 
-Alongside the work for my dissertation, I look at how you can (computationally) identify large-scale trends in online discussions and measure impact/agency within an online discussion.  
+Alongside the work for my dissertation, I look at how you can (computationally) identify large-scale trends in online discussions and measure impact/agency of user interaction on news platforms.
 
 ## Current Projects
 
