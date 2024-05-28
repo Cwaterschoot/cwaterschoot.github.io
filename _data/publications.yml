@@ -7,6 +7,11 @@ main:
     code: https://github.com/Cwaterschoot/Featrec
     image: ./assets/img/grouprec.jpg
 
+  - title: "AI tilt discussie naar hoger niveau"
+    conference: NEMO Kennislink, Mathilde Jansen
+    image: ./assets/img/Artboard.png
+    pdf: https://www.nemokennislink.nl/publicaties/ai-tilt-discussie-naar-hoger-niveau/
+    notes: Interview
 
   - title: "Agency and dynamics in large datasets: Dutch Islam discourse on social media"
     authors: Cedric Waterschoot
