@@ -3,7 +3,8 @@ main:
   - title: "A Time-Robust Group Recommender for Featured Comments on News Platforms"
     authors: Cedric Waterschoot, Antal van den Bosch
     conference: Frontiers in Big Data
-    pdf: https://www.frontiersin.org/articles/10.3389/fdata.2024.1399739/full
+    pdf: ./assets/fdata-07-1399739.pdf
+    page: https://www.frontiersin.org/articles/10.3389/fdata.2024.1399739/full
     code: https://github.com/Cwaterschoot/Featrec
     image: ./assets/img/grouprec.jpg
 
