@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a postdoctoral researcher at the Department of Advances Computing Sciences (DACS) at Maastricht University. Previously, I was a PhD candidate at KNAW Meertens Instituut in Amsterdam and Utrecht University. My research looks at Group Recommender Systems, Natural Language Processing (NLP), group modelling and automatic summarization.
+I am a postdoctoral researcher at the Department of Advances Computing Sciences (DACS) at Maastricht University. Previously, I was a PhD candidate at KNAW Meertens Instituut in Amsterdam and Utrecht University. My research interests include Group Recommender Systems, Natural Language Processing (NLP), group modelling and automatic summarization.
 
 I wrote my dissertation on hybrid content moderation of discussions hosted by online news outlets (comment sections). I created computational tools to support the content moderator in their tasks. Specifically, I looked at identifying 'good' or 'constructive' comments, which news outlets manually highlight to promote better discussions. You can read about my research [here](https://www.nemokennislink.nl/publicaties/ai-tilt-discussie-naar-hoger-niveau/) (Dutch). Furthermore, I studied how content moderators are currently working alongside AI-based tools as well as the opportunities for future collaboration. My PhD project was part of the larger Better-MODS project.
 
