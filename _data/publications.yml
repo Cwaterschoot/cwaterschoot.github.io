@@ -1,5 +1,12 @@
 main:
 
+
+  - title: "With Friends Like These, Who Needs Explanations? Evaluating User Understanding of Group Recommendations"
+    authors: Cedric Waterschoot, Raciel Yera Toledo, Nava Tintarev, Francesco Barile
+    conference : 33rd ACM Conference on User Modeling, Adaptation and Personalization (UMAP)
+    pdf: https://dl.acm.org/doi/full/10.1145/3699682.3728345
+    image: ./assets/img/subj-before-after2.png
+
   - title: "The Impact of Featuring Comments in Online Discussions"
     authors: Cedric Waterschoot, Ernst van den Hemel, Antal van den Bosch
     conference : International Conference on Advances in Social Networks Analysis and Mining (ASONAM2024)
