@@ -1,5 +1,11 @@
 main:
 
+  - title: "Consistent Explainers or Unreliable Narrators? Understanding LLM-generated Group Recommendations"
+    authors: Cedric Waterschoot, Nava Tintarev, Francesco Barile
+    conference : the Nineteenth ACM Conference on Recommender Systems (RecSys 2025)
+    pdf: https://dl.acm.org/doi/full/10.1145/3705328.3748015
+    image: ./assets/img/delta_boxplots.png
+
   - title: "The Pitfalls of Growing Group Complexity: LLMs and Social Choice-Based Aggregation for Group Recommendations"
     authors: Cedric Waterschoot, Nava Tintarev, Francesco Barile
     conference : 4th Workshop on Group Modeling, Adaptation and Personalization (GMAP), co-located at UMAP 2025
